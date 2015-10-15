@@ -4,5 +4,4 @@ git status: give status of a repository
 
 git add: adds to staging area
 
-
-
+git master checkout: go back to the old head
