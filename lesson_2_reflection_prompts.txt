@@ -1,0 +1,8 @@
+git init: (in the folder containing the files) initialises a repository
+
+git status: give status of a repository
+
+git add: adds to staging area
+
+
+
