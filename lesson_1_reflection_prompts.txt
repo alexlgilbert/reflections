@@ -20,8 +20,3 @@ git checkout id: checkout a file
 
 ls -a: also shows hidden files
 
-git init: (in the folder containing the files) initialises a repository
-
-git status: give status of a repository
-
-
