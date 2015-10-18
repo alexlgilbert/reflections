@@ -1,6 +1,6 @@
 cd folder: navigate to folder
 
-diff ~u old filename new filename: compare files
+diff -u old filename new filename: compare files
 
 git log: shows log of commits
 

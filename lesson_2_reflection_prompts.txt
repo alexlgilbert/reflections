@@ -5,3 +5,26 @@ git status: give status of a repository
 git add: adds to staging area
 
 git master checkout: go back to the old head
+
+working directory = is what you see in gui as on hard drive
+
+repository is record of all the commits
+
+staging area is intermediate area (does not necessary include all files in WD.
+
+git diff: compares old commit vs new commit
+
+git diff: compares working directory with staging area
+
+git diff: staging area with latest commit
+
+git branch []: creates new branch (then use checkout)
+
+git log --graph --oneline branch1 branch2: shows branches graph
+
+git branch: view branches
+
+git merge master [branch name]: merge branches	
+
+git show: shows changes of commit vs parent
+
